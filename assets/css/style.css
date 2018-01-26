@@ -1,0 +1,40 @@
+body {
+	background-color: #cccccc;
+	background-image: url("../images/paws.jpg");
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.jumbotron {
+	text-align: center;
+	background-color:  #00264d;
+	color: white;
+}
+
+.pictureImage {
+	display: inline-block;
+	float: left;
+	position: relative;
+}
+
+.animal {
+	padding: 2px;
+	size: 30px;
+}
+
+.sideContainer {
+	padding: 2px;
+}
+
+div-container {
+	float: left;
+	padding: 20px;
+}
+
+#input {
+	display: inline-block;
+	background-color: black;
+	color: white;
+}
